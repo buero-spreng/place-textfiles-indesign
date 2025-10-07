@@ -16,10 +16,12 @@ This repository contains `word-files-to-indesign.jsx`, an Adobe InDesign script 
 - A folder of DOCX files that follow the naming order you want (they are imported alphabetically).
 
 ## Installation
-1. Copy `word-files-to-indesign.jsx` into your InDesign Scripts panel folder. Typical locations:
-   - macOS: `~/Library/Preferences/Adobe InDesign/<version>/<language>/Scripts/Scripts Panel/`
-   - Windows: `C:\Users\<username>\AppData\Roaming\Adobe\InDesign\<version>\<language>\Scripts\Scripts Panel\`
-2. Restart InDesign or refresh the Scripts panel if it is already open.
+1. Copy `word-files-to-indesign.jsx` into your InDesign Scripts panel folder. Typical location:
+   En: Window > Utilities > Scripts
+   De: Fenster > Hilfsprogramme > **Skripte**
+2. Open the **User** folder.
+3. Right click and select **Show in Finder**.
+4. Copy `word-files-to-indesign.jsx` into this folder. Probably called **Scripts Panel**
 
 ## Usage
 1. Open the InDesign document that should receive the DOCX content.
